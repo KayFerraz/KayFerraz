@@ -1,4 +1,4 @@
-###Olá seja bem-vindo ao meu perfil!❤️‍🔥
+Olá seja bem-vindo ao meu perfil!👩🏻‍💻💻
 	![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
         ![](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=black)
         ![](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=black)
