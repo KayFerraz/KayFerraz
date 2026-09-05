@@ -12,5 +12,4 @@ Olá seja bem-vindo ao meu perfil!👩🏻‍💻💻
 	![slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 	![](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 	[![tiktok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@a_ferrazz)
-	) 
-	 
+	
