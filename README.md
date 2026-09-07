@@ -1,7 +1,7 @@
 # 👋 Seja bem-vindo!
 
 Olá! Me chamo **Kayanne**.
-Sou estudante da área de **Tecnologia e Programação**, sou estudante em tempo integral na UNOESTE, e busco me desenvolver e compartilhar tudo com você. 💻✨
+Sou estudante da área de **Ciência da computação**,  em tempo integral na UNOESTE, e busco me desenvolver e compartilhar tudo da minha jornada por aqui. 💻✨
 
 ---
 
