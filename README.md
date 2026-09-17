@@ -2,6 +2,13 @@
 
 Olá! Me chamo **Kayanne**.
 Sou estudante da área de **Ciência da computação**,  em tempo integral na UNOESTE, e busco me desenvolver e compartilhar a minha jornada por aqui. 💻✨
+---
+ Sobre mim
+
+* Área de desenvolvimento de software
+* Aprendendo novas tecnologias
+* Desenvolvimento front-end
+
 
 ---
 
@@ -12,16 +19,8 @@ Sou estudante da área de **Ciência da computação**,  em tempo integral na UN
 
 &nbsp;
 
-
 ---
 
-## 🚀 Sobre mim
-
-* Área de desenvolvimento de software
-* Aprendendo novas tecnologias
-* Desenvolvimento front-end
-
----
 
 ⭐ Obrigada pela visita ao meu perfil!
 
