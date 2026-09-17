@@ -17,7 +17,7 @@ Sou estudante da área de **Ciência da computação**,  em tempo integral na UN
 
 ## 🚀 Sobre mim
 
-* Área de desenvolvimetno de software
+* Área de desenvolvimento de software
 * Aprendendo novas tecnologias
 * Desenvolvimento front-end
 
