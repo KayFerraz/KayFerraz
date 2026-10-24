@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Changa+One&size=26&duration=6000&pause=1000&color=F70EA4&center=true&width=435&lines=Hi+there%2C+i'm+Kay+Ferraz+%F0%9F%91%8B%F0%9F%8F%BB;software+developer+%7C+web+%7C+interface+and+design)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Changa+One&size=26&duration=6000&pause=1000&color=F70EA4&center=true&width=435&lines=Hi+there%2C+i'm+Kay+Ferraz+%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&size=26&duration=6000&pause=1000&color=F778B5&width=435&lines=software+developer+%7C+web+%7C+interface+and+design)](https://git.io/typing-svg)
 
