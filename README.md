@@ -28,4 +28,3 @@ Sou estudante da área de **Ciência da computação**,  em tempo integral na UN
 ⭐ Obrigada pela visita ao meu perfil!
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=KayFerraz&langs_count=4&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=KayFerraz&langs_count=4&theme=radical)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/wakatime?username=alan&langs_count=5&theme=radical)](https://wakatime.com/@KayFerraz)
