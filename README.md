@@ -21,12 +21,12 @@ Sou estudante da área de **Ciência da computação**,  em tempo integral na UN
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=next,nodejs,vscode,react,vue,androidstudio,git,java,c,arduino,yarn" />
+    <img src="https://skillicons.dev/icons?i=next,nodejs,vscode,react,vue,androidstudio,git,java,c,arduino,yarn,ts" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,html,css,postman,mongodb,bootstrap,tailwind,python,cpp,npm" />
+    <img src="https://skillicons.dev/icons?i=javascript,html,css,postman,mongodb,bootstrap,tailwind,python,cpp,npm,postgres" />
   </a>
 </p>
 ---
