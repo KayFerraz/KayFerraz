@@ -23,7 +23,7 @@ Sou estudante da área de **Ciência da computação**,  em tempo integral na UN
 
 
 ---
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next,nodejs,vscode,react,vue,androidstudio&perline=3)](https://skillicons.dev)
 
 ⭐ Obrigada pela visita ao meu perfil!
 
