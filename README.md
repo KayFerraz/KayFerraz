@@ -21,11 +21,15 @@ Sou estudante da área de **Ciência da computação**,  em tempo integral na UN
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=next,nodejs,vscode,react,vue,androidstudio,git,java,c,javascript,html,css,postman,mongodb,bootstrap,tailwind,python" />
+    <img src="https://skillicons.dev/icons?i=next,nodejs,vscode,react,vue,androidstudio,git,java,c" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,html,css,postman,mongodb,bootstrap,tailwind,python" />
   </a>
 </p>
 ---
-[![My Skills](https://skillicons.dev/icons?i=next,nodejs,vscode,react,vue,androidstudio,git,java,c,c++,javascript,html,css,postman,mongodb,bootstrap,tailwind&perline=5)](https://skillicons.dev)
 
 ⭐ Obrigada pela visita ao meu perfil!
 
