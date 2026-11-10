@@ -21,7 +21,7 @@ Sou estudante da área de **Ciência da computação**,  em tempo integral na UN
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=next,nodejs,vscode,react,vue,androidstudio,git,java,api,cplus,javascript,html,css,postman,mongodb,bootstrap,tailwind" />
+    <img src="https://skillicons.dev/icons?i=next,nodejs,vscode,react,vue,androidstudio,git,java,c,javascript,html,css,postman,mongodb,bootstrap,tailwind,python" />
   </a>
 </p>
 ---
